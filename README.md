@@ -14,6 +14,9 @@ De plus ayant de l'experience avec le framework Laravel en PHP, il m'a été ai
 
 1- ajouter le fichier .env avec ce contenu (remplacer root et password par vos valeurs propre à votre installation MYSQL)
 PORT=3333HOST=0.0.0.0NODE_ENV=developmentAPP_KEY=vsEM-kfFSv3J2aop7CgHRb1iv38qyPrWDRIVE_DISK=localDB_CONNECTION=mysqlMYSQL_HOST=127.0.0.1MYSQL_PORT=3306MYSQL_USER=rootMYSQL_PASSWORD=passwordMYSQL_DB_NAME=test_ecommerce_db
+
+
+
 2-  npm install
 
 3- npm run dev
