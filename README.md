@@ -44,3 +44,16 @@ MYSQL_DB_NAME=test_ecommerce_db
 3- npm run dev
 
 4- Dans votre navigateur aller sur http://localhost:3333/docs
+
+
+# Ordre chornologique des actions à effectuer
+
+ 1- S'enregistrer en tant que utilisateur
+
+ 2- Se logger
+
+ 3- Creer une ou plusieurs categories (Category)
+
+ 4- Creer un ou plusieurs produits (Product)
+
+ 4- Ajouter un ou plusieurs paniers (Cart) à un utilisateur
