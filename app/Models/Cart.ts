@@ -1,9 +1,7 @@
 import { DateTime } from 'luxon'
 import { BaseModel, column, 
-  ManyToMany, manyToMany, 
   BelongsTo, belongsTo,
   HasMany, hasMany } from '@ioc:Adonis/Lucid/Orm'
-import Product from './Product'
 import User from './User'
 import CartProduct from './CartProduct'
 
