@@ -13,7 +13,29 @@ De plus ayant de l'experience avec le framework Laravel en PHP, il m'a été ai
 # Recommandation pour lancer le projet:
 
 1- ajouter le fichier .env avec ce contenu (remplacer root et password par vos valeurs propre à votre installation MYSQL)
-PORT=3333HOST=0.0.0.0NODE_ENV=developmentAPP_KEY=vsEM-kfFSv3J2aop7CgHRb1iv38qyPrWDRIVE_DISK=localDB_CONNECTION=mysqlMYSQL_HOST=127.0.0.1MYSQL_PORT=3306MYSQL_USER=rootMYSQL_PASSWORD=passwordMYSQL_DB_NAME=test_ecommerce_db
+
+PORT=3333
+
+HOST=0.0.0.0
+
+NODE_ENV=development
+
+APP_KEY=vsEM-kfFSv3J2aop7CgHRb1iv38qyPrW
+
+DRIVE_DISK=local
+
+DB_CONNECTION=mysql
+
+MYSQL_HOST=127.0.0.1
+
+MYSQL_PORT=3306
+
+MYSQL_USER=root
+
+MYSQL_PASSWORD=password
+
+MYSQL_DB_NAME=test_ecommerce_db
+
 
 
 
